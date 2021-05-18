@@ -1,4 +1,4 @@
-Weather App Live on the Web(https://xenodochial-boyd-cc2382.netlify.app/)
+[Weather App Live on the Web](https://xenodochial-boyd-cc2382.netlify.app/)
 
 ## Available Scripts
 
