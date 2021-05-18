@@ -28,7 +28,7 @@ function App() {
       console.error(err);
     }
   };
-
+// eslint-disable-next-line
   useEffect(() => {
     fetchWeather();    
   }, [latitude, longitude]);
