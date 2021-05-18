@@ -48,7 +48,7 @@ jobs:
       - name: extract build
         run: tar -xzvf build.tar.gz
 
-      - name: Deploying to Netlify @ 
+      - name: Deploying to Netlify @ https://xenodochial-boyd-cc2382.netlify.app/
         if: github.ref == 'refs/heads/main'
         uses: South-Paw/action-netlify-deploy@v1.2.0
         with:
